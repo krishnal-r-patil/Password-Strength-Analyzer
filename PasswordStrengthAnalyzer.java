@@ -43,7 +43,7 @@ public class PasswordStrengthAnalyzer {
         if (digit) score += 20;
         if (special) score += 15;
 
-        System.out.println("\n========== PASSWORD ANALYSIS ==========");
+        System.out.println("\n========= PASSWORD ANALYSIS ==========");
         System.out.println("Length              : " + length);
         System.out.println("Contains Uppercase  : " + (upper ? "Yes" : "No"));
         System.out.println("Contains Lowercase  : " + (lower ? "Yes" : "No"));
