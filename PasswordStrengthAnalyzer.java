@@ -8,7 +8,7 @@ public class PasswordStrengthAnalyzer {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("==========================================");
-        System.out.println(".PASSWORD STRENGTH ANALYZER..");
+        System.out.println("..PASSWORD STRENGTH ANALYZER..");
         System.out.println("========================================");
 
         System.out.print("Enter Password: ");
